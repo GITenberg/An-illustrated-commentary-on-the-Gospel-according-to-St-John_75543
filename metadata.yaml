@@ -1,0 +1,31 @@
+_repo: An-illustrated-commentary-on-the-Gospel-according-to-St-John_75543
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Abbott, Lyman
+    birthdate: 1835
+    deathdate: 1922
+    gutenberg_agent_id: '1604'
+    url: http://www.gutenberg.org/2009/agents/1604
+    wikipedia: https://en.wikipedia.org/wiki/Lyman_Abbott
+description: ''
+gutenberg_issued: '2025-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75543'
+language: en
+pgterms:marc904: https://archive.org/details/illustratedcomme00abbo
+pgterms:marc905: 20190421131139abbott
+pgterms:marc906: '1879'
+pgterms:marc907: US
+production_note: Carol Brown, Richard Hulse and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aNew York :$bA. S. Barnes & Company, $c1879.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: An illustrated commentary on the Gospel according to St. John
+url: http://www.gutenberg.org/ebooks/75543
