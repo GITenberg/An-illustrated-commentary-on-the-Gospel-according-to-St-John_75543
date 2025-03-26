@@ -1,5 +1,8 @@
 _repo: An-illustrated-commentary-on-the-Gospel-according-to-St-John_75543
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75543-h/images/cover-back.jpg
 creator:
   author:
     agent_name: Abbott, Lyman
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1604
     wikipedia: https://en.wikipedia.org/wiki/Lyman_Abbott
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75543#An-illustrated-commentary-on-the-Gospel-according-to-St-John
 gutenberg_issued: '2025-03-06'
 gutenberg_type: Text
 identifiers:
